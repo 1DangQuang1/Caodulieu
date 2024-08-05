@@ -1,2 +1,1 @@
-Mở cmdprompt chạy pip install -r rq.txt
-Chạy code
+Mở cmdprompt chạy pip install -r rq.txt trước tiên
